@@ -1,6 +1,6 @@
 # Pound Cake
 Iremos fazer um bolo de uma libra, onde todos os ingredientes são colocados na mesma quantidade (1 lb of each).
-Para rodar o código, siga as instruções no final deste arquivo
+Para rodar o código, siga as [instruções](#como-eu-executo-esse-código) no final deste arquivo
 
 ### Ingredientes
 
