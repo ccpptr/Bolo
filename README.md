@@ -1,4 +1,5 @@
 # Pound Cake
+Inspirado pelo artigo [Modeling of Pound Cake Baking Behaviour in Continous Flow](https://www.comsol.com/paper/modeling-of-pound-cake-baking-behavior-in-continuous-flow-66621), fiz um hackaton sábado de manhã onde o propósito era modelar em uma abordagem termodinâmica e mais simples, um Pound Cake (Bolo de uma libra)
 Iremos fazer um bolo de uma libra, onde todos os ingredientes são colocados na mesma quantidade (1 lb of each).
 Para rodar o código, siga as [instruções](#como-eu-executo-esse-código) no final deste arquivo
 
